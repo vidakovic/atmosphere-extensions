@@ -265,6 +265,7 @@
         <module>socketio/</module>
         <module>cometd/</module>
         <module>kafka/</module>
+        <module>infinispan/</module>
     </modules>
     <reporting>
         <outputDirectory>target/site</outputDirectory>
@@ -500,6 +501,7 @@
         <ahc.version>1.7.6</ahc.version>
         <jedis.version>2.0.0</jedis.version>
         <kafka.version>0.7.2</kafka.version>
+        <infinispan.version>5.1.0.Final</infinispan.version>
         <slf4j-impl-version>1.6.1</slf4j-impl-version>
         <slf4j-version>1.6.1</slf4j-version>
         <logback-version>0.9.30</logback-version>
